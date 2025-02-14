@@ -8,9 +8,17 @@ export default {
   ],
   theme: {
     extend: {
+      overflow: {
+        overlay: "overlay",
+      },
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        "primary-dark-blue": "#4036ef",	
+        "primary-yellow": "#fbb91d",
+        "primary-white": "#ffffff",
+        "primary-black": "#000000",
+        "primary-gray": "#c4c4c4",
+        "primary-pink": "#ff6769",
+        "secondary-pink": "#ffcaca",
       },
     },
   },
