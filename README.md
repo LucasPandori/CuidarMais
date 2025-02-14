@@ -8,3 +8,4 @@
 - CSS
 - React
 - TailWind
+- Next?
