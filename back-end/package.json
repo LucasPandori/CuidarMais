@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "dev": "nodemon --exec ts-node src/index.ts"
+  },
   "dependencies": {
+    "@prisma/client": "^6.3.1",
     "@types/jsonwebtoken": "^9.0.8",
     "@types/uuid": "^10.0.0",
     "bcrypt": "^5.1.1",
