@@ -8,6 +8,9 @@ Um site para um hospital, que tem como objetivo principal marcar exames dos paci
 - Jwt
 - express
 - Node
+- Bcrypt
+- Nodemon
+- UUID
 
 ## Tecnologias do Frontend:
 - HTML5
@@ -15,3 +18,9 @@ Um site para um hospital, que tem como objetivo principal marcar exames dos paci
 - React
 - TailWind
 - Next
+
+## Banco de Dados
+- PostgreSQL
+- Docker
+- Prisma
+
