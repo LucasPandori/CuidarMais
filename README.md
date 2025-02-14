@@ -1,5 +1,6 @@
 # CuidarMais
 ## Descrição
+Um site para um hospital, que tem como objetivo principal marcar exames dos pacientes
 
 ## Tecnologias do Backend:
 - TypeScript
